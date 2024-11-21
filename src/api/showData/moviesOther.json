@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Let Go",
+        "poster": "images/shows/poster/let_go.jpg",
+        "backdrop": "images/shows/backdrop/let_go.jpg",
+        "title_image": "images/shows/title/en/let_go.png",
+        "genre": ["Dramas"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "A jaded mother makes a last-ditch effort to keep her family together by taking them on a trip to their teenage daughter's pole dancing competition."
+    },
+    {
+        "title": "Family Pack",
+        "poster": "images/shows/poster/family_pack.jpg",
+        "backdrop": "images/shows/backdrop/family_pack.jpg",
+        "title_image": "images/shows/title/en/family_pack.png",
+        "genre": ["Comedies", "Fantasy"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "U/A 13+",
+        "description": "When an old card game comes to life, a family jumps back in time to a medieval village where they must unmask werewolves to secure their return home."
+    },
+    {
+        "title": "Pedro Paramo",
+        "poster": "images/shows/poster/pedro_paramo.jpg",
+        "backdrop": "images/shows/backdrop/pedro_paramo.jpg",
+        "title_image": "images/shows/title/en/pedro_paramo.png",
+        "genre": ["Comedies", "Dramas"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "U/A 13+",
+        "description": "Based on Juan Rulfo's landmark novel, a man searches for his father, Pedro Páramo, in a town doomed by violence and the fury of a frustrated love."
+    },
+    {
+        "title": "Do Patti",
+        "poster": "images/shows/poster/do_patti.jpg",
+        "backdrop": "images/shows/backdrop/do_patti.jpg",
+        "title_image": "images/shows/title/en/do_patti.png",
+        "genre": ["Thrillers", "Mysteries", "Dramas"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "A puzzling investigation leads a no-nonsense cop down a dark path involving the vicious rivalry between twin sisters and the volatile man they both love."
+    },
+    {
+        "title": "The Buckingham Murders",
+        "poster": "images/shows/poster/the_buckingham_murders.jpg",
+        "backdrop": "images/shows/backdrop/the_buckingham_murders.jpg",
+        "title_image": "images/shows/title/en/the_buckingham_murders.png",
+        "genre": ["Mysteries", "Dramas"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "When a teen boy’s murder rattles a quiet English town, a grieving detective uncovers the hidden hostilities beneath its idyllic surface."
+    },
+    {
+        "title": "Devra",
+        "poster": "images/shows/poster/devra.jpg",
+        "backdrop": "images/shows/backdrop/devra.jpg",
+        "title_image": "images/shows/title/en/devra.png",
+        "genre": ["Action", "Drama"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "A mighty sea warrior takes a violent stand against the criminal deeds of his village. Years later, his mild-mannered son walks a path of his own."
+    },
+    {
+        "title": "Umjolo The Gone Girl",
+        "poster": "images/shows/poster/umjolo_the_gone_girl.jpg",
+        "backdrop": "images/shows/backdrop/umjolo_the_gone_girl.jpg",
+        "title_image": "images/shows/title/en/umjolo_the_gone_girl.png",
+        "genre": ["Action", "Romance", "Drama"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "A couple's seemingly perfect relationship falters when one of them learns about the other's infidelity — but who said that relationships were easy?"
+    },
+    {
+        "title": "The Shadow Strays",
+        "poster": "images/shows/poster/the_shadow_strays.jpg",
+        "backdrop": "images/shows/backdrop/the_shadow_strays.jpg",
+        "title_image": "images/shows/title/en/the_shadow_strays.png",
+        "genre": ["Action", "Thrillers"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "Skilled in the art of killing, a young assassin defies her mentor to save a boy from a ruthless crime syndicate — and she'll destroy anyone in her path."
+    }
+]

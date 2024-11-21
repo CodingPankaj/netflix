@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Custom font family */
+@font-face {
+  font-display: optional;
+  font-family: 'Netflix Sans';
+  font-weight: 100;
+  src: url('/fonts/NetflixSans_W_Th.woff2') format('woff2'),
+       url('/fonts/NetflixSans_W_Th.woff') format('woff');
+}
+
+@font-face {
+  font-display: optional;
+  font-family: 'Netflix Sans';
+  font-weight: 300;
+  src: url('/fonts/NetflixSans_W_Lt.woff2') format('woff2'),
+       url('/fonts/NetflixSans_W_Lt.woff') format('woff');
+}
+
+@font-face {
+  font-display: optional;
+  font-family: 'Netflix Sans';
+  font-weight: 400;
+  src: url('/fonts/NetflixSans_W_Rg.woff2') format('woff2'),
+       url('/fonts/NetflixSans_W_Rg.woff') format('woff');
+}
+
+@font-face {
+  font-display: optional;
+  font-family: 'Netflix Sans';
+  font-weight: 500;
+  src: url('/fonts/NetflixSans_W_Md.woff2') format('woff2'),
+       url('/fonts/NetflixSans_W_Md.woff') format('woff');
+}
+
+@font-face {
+  font-display: optional;
+  font-family: 'Netflix Sans';
+  font-weight: 700;
+  src: url('/fonts/NetflixSans_W_Bd.woff2') format('woff2'),
+       url('/fonts/NetflixSans_W_Bd.woff') format('woff');
+}
+
+@font-face {
+  font-display: optional;
+  font-family: 'Netflix Sans';
+  font-weight: 900;
+  src: url('/fonts/NetflixSans_W_Blk.woff2') format('woff2'),
+       url('/fonts/NetflixSans_W_Blk.woff') format('woff');
+}
+
+
+/* Universal selector */
+* {
+  list-style: none;
+  font-family: 'Netflix Sans', sans-serif;
+  font-weight: 400;
+  box-sizing: border-box;
+}
+
+.faq-btn {
+  @apply mb-[1px] p-6 w-full flex items-center justify-between bg-color-grey hover:bg-hover-grey text-white;
+}
+
+.faq-content {
+  @apply max-h-0 grid bg-color-grey text-white overflow-hidden transition-[max-height_padding] duration-300 ease-[cubic-bezier(0.4,_0,_0.68,_0.06)];
+}
+
+.text-stroke {
+  -webkit-text-stroke: 2px white;
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.7);
+}
+
+.form-action-btn {
+  @apply py-2 px-6 flex items-center gap-4 bg-primary-red text-white text-2xl rounded
+}
+
+.arrow-down {
+  @apply w-0 h-0 border-t-[5px] border-l-[5px] border-r-[5px] border-t-white border-r-transparent border-l-transparent
+}
+
+.banner-image {
+  clip-path: polygon(50% 0%, 100% 0, 99.7% 50%, 100% 100%, 50% 99.7%, 0 100%, 0.3% 50%, 0 0);
+}
+
+.bg-header-light {
+  @apply bg-[linear-gradient(180deg,_rgba(0,_0,_0,_0.8000)_0.000%,_rgba(0,_0,_0,_0.7889)_8.333%,_rgba(0,_0,_0,_0.7556)_16.67%,_rgba(0,_0,_0,_0.7000)_25.00%,_rgba(0,_0,_0,_0.6222)_33.33%,_rgba(0,_0,_0,_0.5222)_41.67%,_rgba(0,_0,_0,_0.4000)_50.00%,_rgba(0,_0,_0,_0.2778)_58.33%,_rgba(0,_0,_0,_0.1778)_66.67%,_rgba(0,_0,_0,_0.1000)_75.00%,_rgba(0,_0,_0,_0.04444)_83.33%,_rgba(0,_0,_0,_0.01111)_91.67%,_rgba(0,_0,_0,_0.000)_100.0%)]
+}
+
+.bg-red-circle-light {
+  @apply bg-[radial-gradient(11%_56%_at_17%_50%,_#461518_0%,_transparent_100%),_radial-gradient(11%_56%_at_83%_50%,_#461518_0%,_transparent_100%)]
+}
+
+.bg-banner-back-color {
+  @apply bg-[linear-gradient(0deg,_transparent_0%,_#6f181d_50%,_transparent_100%)]
+}
+
+.bg-blue-circle-light {
+  background: radial-gradient(50% 500% at 50% -420%, rgba(64, 97, 231, 0.4) 80%, rgba(0, 0, 0, 0.1) 100%), black;
+}
+
+.bg-red-curve-color {
+  @apply before:bg-[linear-gradient(to_right,_rgba(33,_13,_22,_1)_16%,_rgba(184,_40,_105,_1),_rgba(229,_9,_20,_1),_rgba(184,_40,_105,_1),_rgba(33,_13,_22,_1)_84%)]
+}
+
+.bg-backdrop {
+  @apply bg-[linear-gradient(40deg,_rgb(22,_22,_22)_24.16%,_rgba(6,_10,_23,_0)_56.61%),_linear-gradient(0deg,_rgb(22,_22,_22)_3.91%,_rgba(6,_10,_23,_0)_69.26%)]
+}
+
+.blur-bg {
+  animation: blur 1.8s ease;
+}
+
+.fade-img {
+  animation: fade 1s ease;
+}
+
+@keyframes blur {
+  0% {
+    backdrop-filter: blur(20px);
+  }
+  100% {
+    backdrop-filter: blur(0px);
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+

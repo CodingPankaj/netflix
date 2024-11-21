@@ -1,0 +1,101 @@
+[
+    {
+        "title": "Outer Banks",
+        "poster": "images/shows/poster/outer_banks.jpg",
+        "backdrop": "images/shows/backdrop/outer_banks.jpg",
+        "title_image": "images/shows/title/en/outer_banks.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "The Pogues return home and start living their best life, but it's not long before they're back to doing what they do best: hunting for treasure."
+    },
+    {
+        "title": "Arcane League Of Legends",
+        "poster": "images/shows/poster/arcane_league_of_legends.jpg",
+        "backdrop": "images/shows/backdrop/arcane_league_of_legends.jpg",
+        "title_image": "images/shows/title/en/arcane_league_of_legends.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "Alliances are forged, allegiances are smashed and fresh dangers emerge as the battle between Piltover and Zaun inspires both glory and heartbreak."
+    },
+    {
+        "title": "The Diplomat",
+        "poster": "images/shows/poster/the_diplomat.jpg",
+        "backdrop": "images/shows/backdrop/the_diplomat.jpg",
+        "title_image": "images/shows/title/en/the_diplomat.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "When a London bombing shatters her world, US diplomat Kate Wyler faces the ultimate test as her suspicions reach the top levels of the British government."
+    },
+    {
+        "title": "Countdown Paul Vs Tyson A Documentary Series",
+        "poster": "images/shows/poster/countdown_paul_vs_tyson_a_documentary_series.jpg",
+        "backdrop": "images/shows/backdrop/countdown_paul_vs_tyson_a_documentary_series.jpg",
+        "title_image": "images/shows/title/en/countdown_paul_vs_tyson_a_documentary_series.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "Go inside Jake Paul and Mike Tyson's training camps and personal lives as they prepare for their must-see heavyweight boxing match live on Nov. 15."
+    },
+    {
+        "title": "Beauty In Black",
+        "poster": "images/shows/poster/Beauty_in_Black.jpg",
+        "backdrop": "images/shows/backdrop/Beauty_in_Black.jpg",
+        "title_image": "images/shows/title/en/Beauty_in_Black.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "A stripper's fate takes a turn when she crosses paths with the wealthy, dysfunctional family behind a cosmetics dynasty and a devious trafficking scheme."
+    },
+    {
+        "title": "The Lincoln Lawyer",
+        "poster": "images/shows/poster/the_lincoln_lawyer.jpg",
+        "backdrop": "images/shows/backdrop/the_lincoln_lawyer.jpg",
+        "title_image": "images/shows/title/en/the_lincoln_lawyer.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "Mickey takes on a personal and potentially dangerous case when he defends the person accused of murdering Gloria Dayton, his friend and former client."
+    },
+    {
+        "title": "Territory",
+        "poster": "images/shows/poster/territory.jpg",
+        "backdrop": "images/shows/backdrop/territory.jpg",
+        "title_image": "images/shows/title/en/territory.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "When the world's largest cattle station is left without a clear heir, rival factions descend as a fierce generational struggle upends the land's future."
+    },
+    {
+        "title": "This Is The Zodiac Speaking",
+        "poster": "images/shows/poster/this_is_the_zodiac_speaking.jpg",
+        "backdrop": "images/shows/backdrop/this_is_the_zodiac_speaking.jpg",
+        "title_image": "images/shows/title/en/this_is_the_zodiac_speaking.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "In this true-crime docuseries, a family searching for answers shares clues and eye-opening testimonies about the prime suspect in the Zodiac murders."
+    },
+    {
+        "title": "Investigation Alien",
+        "poster": "images/shows/poster/investigation_alien.jpg",
+        "backdrop": "images/shows/backdrop/investigation_alien.jpg",
+        "title_image": "images/shows/title/en/investigation_alien.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 13+",
+        "description": "In this gripping docuseries, legendary reporter George Knapp travels the globe to uncover new evidence about UFOs and investigate their presence on Earth."
+    }
+]

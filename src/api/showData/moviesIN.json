@@ -1,0 +1,112 @@
+[
+    {
+      "title": "Devra",
+      "poster": "images/shows/poster/devra.jpg",
+      "backdrop": "images/shows/backdrop/devra.jpg",
+      "title_image": "images/shows/title/en/devra.png",
+      "genre": ["Action", "Drama"],
+      "type": "Movie",
+      "release_year": 2024,
+      "certification": "U/A 16+",
+      "description": "A mighty sea warrior takes a violent stand against the criminal deeds of his village. Years later, his mild-mannered son walks a path of his own."
+    },
+    {
+      "title": "Do Patti",
+      "poster": "images/shows/poster/do_patti.jpg",
+      "backdrop": "images/shows/backdrop/do_patti.jpg",
+      "title_image": "images/shows/title/en/do_patti.png",
+      "genre": ["Thrillers", "Mysteries", "Dramas"],
+      "type": "Movie",
+      "release_year": 2024,
+      "certification": "U/A 16+",
+      "description": "A puzzling investigation leads a no-nonsense cop down a dark path involving the vicious rivalry between twin sisters and the volatile man they both love."
+    },
+    {
+      "title": "The Buckingham Murders",
+      "poster": "images/shows/poster/the_buckingham_murders.jpg",
+      "backdrop": "images/shows/backdrop/the_buckingham_murders.jpg",
+      "title_image": "images/shows/title/en/the_buckingham_murders.png",
+      "genre": ["Mysteries", "Dramas"],
+      "type": "Movie",
+      "release_year": 2024,
+      "certification": "A",
+      "description": "When a teen boy’s murder rattles a quiet English town, a grieving detective uncovers the hidden hostilities beneath its idyllic surface."
+    },
+    {
+      "title": "Meiyazhagan",
+      "poster": "images/shows/poster/meiyazhagan.jpg",
+      "backdrop": "images/shows/backdrop/meiyazhagan.jpg",
+      "title_image": "images/shows/title/en/meiyazhagan.png",
+      "genre": ["Dramas"],
+      "type": "Movie",
+      "release_year": 2024,
+      "certification": "U/A 7+",
+      "description": "A man makes a bittersweet journey back to his hometown after 22 years and meets an insistent yet kindhearted relative whose name he can't remember."
+    },
+    {
+      "title": "Bhool Bhulaiyaa",
+      "poster": "images/shows/poster/bhool_bhulaiyaa.jpg",
+      "backdrop": "images/shows/backdrop/bhool_bhulaiyaa.jpg",
+      "title_image": "images/shows/title/en/bhool_bhulaiyaa.png",
+      "genre": ["Thrillers", "Mysteries", "Dramas"],
+      "type": "Movie",
+      "release_year": 2007,
+      "certification": "U/A 13+",
+      "description": "Siddharth dismisses warnings that his palace might be haunted, until ghostly occurrences force him to reconsider his beliefs."
+    },
+    {
+      "title": "Vijay 69",
+      "poster": "images/shows/poster/vijay_69.jpg",
+      "backdrop": "images/shows/backdrop/vijay_69.jpg",
+      "title_image": "images/shows/title/en/vijay_69.png",
+      "genre": ["Comedies", "Dramas"],
+      "type": "Movie",
+      "release_year": 2024,
+      "certification": "U/A 13+",
+      "description": "An adventurous, foul-mouthed former swimming coach reaches for record-breaking glory when he attempts a triathlon at 69 years old."
+    },
+    {
+      "title": "Khel Khel Me",
+      "poster": "images/shows/poster/khel_khel_me.jpg",
+      "backdrop": "images/shows/backdrop/khel_khel_me.jpg",
+      "title_image": "images/shows/title/en/khel_khel_me.png",
+      "genre": ["Comedies", "Dramas"],
+      "type": "Movie",
+      "release_year": 2024,
+      "certification": "U/A 16+",
+      "description": "An unhappily married couple and five friends decide to share every call or text they get over one night with each other. There's nothing to hide — right?"
+    },
+    {
+      "title": "Time Cut",
+      "poster": "images/shows/poster/time_cut.jpg",
+      "backdrop": "images/shows/backdrop/time_cut.jpg",
+      "title_image": "images/shows/title/en/time_cut.png",
+      "genre": ["Horror", "Thrillers", "Sci-Fi"],
+      "type": "Movie",
+      "release_year": 2024,
+      "certification": "U/A 16+",
+      "description": "A teen in 2024 accidentally time-travels to 2003, days before a masked killer murders her sister. Can she change the past without destroying the future?"
+    },
+    {
+      "title": "Bhool Bhulaiyaa 2",
+      "poster": "images/shows/poster/bhool_bhulaiyaa_2.jpg",
+      "backdrop": "images/shows/backdrop/bhool_bhulaiyaa_2.jpg",
+      "title_image": "images/shows/title/en/bhool_bhulaiyaa_2.png",
+      "genre": ["Horror", "Comedies"],
+      "type": "Movie",
+      "release_year": 2022,
+      "certification": "U/A 13+",
+      "description": "When strangers Reet and Ruhan cross paths, their journey leads to an abandoned mansion and a dreaded spirit who has been trapped for 18 years."
+    },
+    {
+      "title": "It Ends With Us",
+      "poster": "images/shows/poster/it_ends_with_us.jpg",
+      "backdrop": "images/shows/backdrop/it_ends_with_us.jpg",
+      "title_image": "images/shows/title/en/it_ends_with_us.png",
+      "genre": ["Dramas"],
+      "type": "Movie",
+      "release_year": 2024,
+      "certification": "U/A 16+",
+      "description": "A florist's seemingly perfect relationship unravels when an old flame re-enters the picture, forcing her to make a difficult choice about her future."
+    }
+  ]

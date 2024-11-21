@@ -1,0 +1,70 @@
+/* Swiper Js */
+
+.swiper-button-next,
+.swiper-button-prev {
+  display: flex;
+  margin: 0;
+  width: 35px;
+  height: 100%;
+  background: black;
+  top: 0px !important;
+  transition: 0.4s ease-in-out;
+}
+
+.swiper-button-prev {
+  left: 0;
+}
+
+.swiper-button-next {
+  right: 0;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.swiper-button-prev::after {
+    position: absolute;
+    right: 50%;
+}
+
+.swiper-button-next::after {
+    position: absolute;
+    left: 50%;
+}
+
+.swiper-button-next::before,
+.swiper-button-prev::before {
+  content: "";
+  width: 28px;
+  height: 120px;
+  background: #1a1a1a;
+  border-radius: 8px;
+  position: absolute;
+  z-index: -1;
+}
+
+.swiper-button-next::before { 
+    right: 0;
+}
+
+.swiper-button-prev::before { 
+    left: 0;
+}
+
+.swiper-button-next[aria-disabled="true"],
+.swiper-button-prev[aria-disabled="true"] {
+  /* opacity: 0;
+  visibility: hidden; */
+}
+
+.swiper-button-prev[aria-disabled="true"] {
+  left: -35px;
+}
+
+.swiper-button-next[aria-disabled="true"] {
+    right: -35px;
+  }

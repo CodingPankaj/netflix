@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Enjoy on your TV",
+        "content": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "svgIcon": "images/svg/tv.svg"
+    },
+    {
+        "title": "Download your shows to watch offline",
+        "content": "Save your favourites easily and always have something to watch.",
+        "svgIcon": "images/svg/download.svg"
+    },
+    {
+        "title": "Watch everywhere",
+        "content": "Stream unlimited movies and TV shows on your phone, tablet, laptop and TV.",
+        "svgIcon": "images/svg/watch.svg"
+    },
+    {
+        "title": "Create profiles for kids",
+        "content": "Send kids on adventures with their favourite characters in a space made just for them — free with your membership.",
+        "svgIcon": "images/svg/profile.svg",
+        "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"100\" height=\"100\" viewBox=\"0 0 100 100\">\n  <rect x=\"45\" y=\"0\" width=\"10\" height=\"100\" fill=\"black\"/>\n  <rect x=\"0\" y=\"45\" width=\"100\" height=\"10\" fill=\"black\"/>\n</svg>"
+          
+    }
+]

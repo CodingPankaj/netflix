@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Murder Mindfully",
+        "poster": "images/shows/poster/murder_mindfully.jpg",
+        "backdrop": "images/shows/backdrop/murder_mindfully.jpg",
+        "title_image": "images/shows/title/en/murder_mindfully.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "When mafia lawyer Björn attends a mindfulness class to find a better work-life balance, he discovers surprising new coping strategies — including murder."
+    },
+    {
+        "title": "The Cage",
+        "poster": "images/shows/poster/the_cage.jpg",
+        "backdrop": "images/shows/backdrop/the_cage.jpg",
+        "title_image": "images/shows/title/en/the_cage.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "Dreaming of going pro, a young fighter struggles to be seen until an unexpected face-off lands him a shot at the big time — and a ruthless rivalry."
+    },
+    {
+        "title": "Dandadan",
+        "poster": "images/shows/poster/dandadan.jpg",
+        "backdrop": "images/shows/backdrop/dandadan.jpg",
+        "title_image": "images/shows/title/en/dandadan.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "In a bet to prove whether ghosts or aliens exist, two high schoolers face terrifying paranormal threats, gain superpowers and maybe even fall in love?!"
+    },
+    {
+        "title": "Don't Come Home",
+        "poster": "images/shows/poster/dont_come_home.jpg",
+        "backdrop": "images/shows/backdrop/dont_come_home.jpg",
+        "title_image": "images/shows/title/en/dont_come_home.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "A mother must confront dark secrets from the past when her young daughter mysteriously vanishes after they move into her family’s eerie old mansion."
+    },
+    {
+        "title": "Bank Under Siege",
+        "poster": "images/shows/poster/bank_under_siege.jpg",
+        "backdrop": "images/shows/backdrop/bank_under_siege.jpg",
+        "title_image": "images/shows/title/en/bank_under_siege.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "Spain, 1981: When armed men hold up a bank and take hundreds hostage, a reporter races against the authorities to uncover the true motive for the heist."
+    },
+    {
+        "title": "Go Ahead, Brother",
+        "poster": "images/shows/poster/go_ahead_brother.jpg",
+        "backdrop": "images/shows/backdrop/go_ahead_brother.jpg",
+        "title_image": "images/shows/title/en/go_ahead_brother.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "A dismissed special ops officer struggles to adapt to his new role in retail security — until he spots a way to solve his financial troubles."
+    },
+    {
+        "title": "The Law According To Lidia Poet",
+        "poster": "images/shows/poster/the_law_according_to_lidia_poet.jpg",
+        "backdrop": "images/shows/backdrop/the_law_according_to_lidia_poet.jpg",
+        "title_image": "images/shows/title/en/the_law_according_to_lidia_poet.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "As Lidia continues to advocate for equality, the arrival of a new prosecutor shakes her world and Enrico considers a major change in his vocation."
+    },
+    {
+        "title": "Demon Slayer",
+        "poster": "images/shows/poster/demon_slayer.jpg",
+        "backdrop": "images/shows/backdrop/demon_slayer.jpg",
+        "title_image": "images/shows/title/en/demon_slayer.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "Tanjiro and the Demon Slayer Corps begin intense training with the highest-ranking swordsmen, the Hashira. Will they be ready in time for the showdown?"
+    },
+    {
+        "title": "Little Dino School",
+        "poster": "images/shows/poster/little_dino_school.jpg",
+        "backdrop": "images/shows/backdrop/little_dino_school.jpg",
+        "title_image": "images/shows/title/en/little_dino_school.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U",
+        "description": "Learn numbers, colors and the ABCs with little dinosaur friends Rex, Brie, Vella and Pete as they tell delightful stories and sing catchy tunes."
+    },
+    {
+        "title": "Dragon Ball Daima",
+        "poster": "images/shows/poster/dragon_ball_daima.jpg",
+        "backdrop": "images/shows/backdrop/dragon_ball_daima.jpg",
+        "title_image": "images/shows/title/en/dragon_ball_daima.png",
+        "genre": [],
+        "type": "Season",
+        "release_year": 2024,
+        "certification": "U/A 7+",
+        "description": "Mysteriously transformed into mini versions of themselves, Goku and his friends travel to the Demon Realm to uncover the truth and find a cure."
+    }
+]

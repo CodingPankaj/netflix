@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Meet Me Next Christmas",
+        "poster": "images/shows/poster/meet_me_next_christmas.jpg",
+        "backdrop": "images/shows/backdrop/meet_me_next_christmas.jpg",
+        "title_image": "images/shows/title/en/meet_me_next_christmas.png",
+        "genre": ["Comedies", "Romance"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "U/A 13+",
+        "description": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert."
+    },
+    {
+        "title": "Time Cut",
+        "poster": "images/shows/poster/time_cut.jpg",
+        "backdrop": "images/shows/backdrop/time_cut.jpg",
+        "title_image": "images/shows/title/en/time_cut.png",
+        "genre": ["Horror", "Thrillers", "Sci-Fi"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "A teen in 2024 accidentally time-travels to 2003, days before a masked killer murders her sister. Can she change the past without destroying the future?"
+    },
+    {
+        "title": "Don't Move",
+        "poster": "images/shows/poster/dont_move.jpg",
+        "backdrop": "images/shows/backdrop/dont_move.jpg",
+        "title_image": "images/shows/title/en/dont_move.png",
+        "genre": ["Thrillers"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "A",
+        "description": "A grieving woman in a secluded forest encounters a killer who injects her with a paralytic drug. As her body shuts down, her fight for survival begins."
+    },
+    {
+        "title": "Martha",
+        "poster": "images/shows/poster/martha.jpg",
+        "backdrop": "images/shows/backdrop/martha.jpg",
+        "title_image": "images/shows/title/en/martha.png",
+        "genre": ["Documentaries"],
+        "type": "Movie",
+        "release_year": 2024,
+        "certification": "U/A 16+",
+        "description": "Told in her own words, this candid documentary charts the unstoppable rise, sudden fall and hard-won comeback of lifestyle icon Martha Stewart."
+    },
+    {
+        "title": "Sing",
+        "poster": "images/shows/poster/sing.jpg",
+        "backdrop": "images/shows/backdrop/sing.jpg",
+        "title_image": "images/shows/title/en/sing.png",
+        "genre": ["Comedies", "Kids", "Musicals"],
+        "type": "Movie",
+        "release_year": 2016,
+        "certification": "U",
+        "description": "An optimistic koala tries to save his struggling theater with a singing contest that attracts animal talent of all shapes, sizes and species."
+    },
+    {
+        "title": "The Angry Birds 2 Movie",
+        "poster": "images/shows/poster/the_angry_birds_2.jpg",
+        "backdrop": "images/shows/backdrop/the_angry_birds_2.jpg",
+        "title_image": "images/shows/title/en/the_angry_birds_2.png",
+        "genre": ["Comedies", "Kids"],
+        "type": "Movie",
+        "release_year": 2019,
+        "certification": "U/A 7+",
+        "description": "Enemies turn into frenemies when the Pigs call for a truce with the Birds to unite against a formidable new foe that’s threatening all of their homes."
+    }
+]
